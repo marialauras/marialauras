@@ -1,7 +1,7 @@
 # Hi, I'm Maria Laura! :D
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marialauras)](https://github.com/marialauras)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=ttps://linkedin.com/in/maria-laura-moreira/)](ttps://linkedin.com/in/maria-laura-moreira/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/maria-laura-moreira/)](https://linkedin.com/in/maria-laura-moreira/)
 
 ### About me
 I'm a frontend / mobile developer and student of Computer Science at [UFOP](https://ufop.br/).
