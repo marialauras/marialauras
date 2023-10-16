@@ -1,5 +1,5 @@
 
-<img width=100% src="https://github.com/marialauras/marialauras/blob/main/git.gif"/>
+<a href="https://www.marialauras.com.br/"><img width=100% src="https://github.com/marialauras/marialauras/blob/main/git.gif"/></a>
 
 <div align="center"> 
 
